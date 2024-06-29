@@ -4,5 +4,17 @@
     "metadata": {
       "name": "Jupiter router programId"
     }
+  },
+  "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+    "programId": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "metadata": {
+      "name": "USDC token program"
+    }
+  },
+  "So11111111111111111111111111111111111111112": {
+    "programId": "So11111111111111111111111111111111111111112",
+    "metadata": {
+      "name": "Solana token program"
+    }
   }
 }
